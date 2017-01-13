@@ -10,7 +10,7 @@ import:
   version: ^2.0
 - package: github.com/spf13/viper
   version: 346299ea79e446ebdddb834371ceba2e5926b732
-- package: gopkg.in/yaml.v2
+- package: github.com/go-yaml/yaml/tree/v2
 - package: github.com/stretchr/testify
   version: ^1.1
 - package: github.com/dgrijalva/jwt-go
